@@ -1,2 +1,13 @@
-# Eventfinder
-EventFinder is a responsive web app to explore local events. It features search, fixed-size event cards with images, and a contact sidebar. Home shows all sections; Events filters listings. Dark mode, responsive design, and smooth navigation ensure usability across devices. Built with HTML, CSS, JS.
+# EventFinder
+
+EventFinder is a responsive web application that lets users explore events in their city. It features a clean interface, event search, Dark Mode, and a contact sidebar.
+
+## Technologies and Tools Used
+- **HTML** – Structure of the website  
+- **CSS** – Styling, layout, animations, Dark Mode  
+- **JavaScript** – Interactivity: search, navigation buttons, Dark Mode toggle, contact sidebar  
+
+## How to Run
+1. Clone or download the repository:  
+   ```bash
+   git clone https://github.com/YourUsername/EventFinder.git
